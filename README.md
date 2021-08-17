@@ -1,6 +1,7 @@
 # Dinner at Clementi
-![ScreenShot](/logo/latest.png)
-
+<p>
+    <img src="logo/anonymous_mason.png" width="220" height="240" />
+</p>
 Bagi Bapak Ibu yang merasa kehilangan anak ini, harap lapor ke pos sekuriti secepatnya
 .
 Terima kasih
