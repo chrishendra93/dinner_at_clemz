@@ -1,5 +1,5 @@
 # Dinner at Clementi
-![alt text](https://github.com/chrishendra93/dinner_at_clemz/tree/master/logo/anonymous_mason.png)
+![ScreenShot](/logo/latest.png)
 
 Bagi Bapak Ibu yang merasa kehilangan anak ini, harap lapor ke pos sekuriti secepatnya
 .
