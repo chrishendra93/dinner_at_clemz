@@ -25,11 +25,11 @@ setup(
     python_requires=">=3.5",
     entry_points={'console_scripts': ["display_message=src.main:main"]},
     classifiers=[
-        'Development Status :: None',
+        'Development Status :: 5 - Production/Stable',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3.8',
         'Topic :: Software Development :: Libraries',
-        'Intended Audience :: Dinner at Clementi',
+        'Intended Audience :: Other Audience',
     ],
 )
