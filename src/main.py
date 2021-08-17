@@ -1,4 +1,4 @@
-import messages
+from . import messages
 
 
 def main():

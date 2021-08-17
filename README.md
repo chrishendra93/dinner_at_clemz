@@ -13,5 +13,11 @@ dinner_at_clemz requires [Python3](https://www.python.org). To install the lates
 ```sh
 $ pip install dinner_at_clemz
 ```
+
+After installation, run the following command:
+
+```sh
+$ display_message
+```
 ### License
 MIT

@@ -23,7 +23,7 @@ setup(
     install_requires=[
             ],
     python_requires=">=3.5",
-    entry_points={'console_scripts': ["clementi-{}.src.main:main".format(__pkg_name__)]},
+    entry_points={'console_scripts': ["display_message=src.main:main"]},
     classifiers=[
         'Development Status :: None',
         'License :: OSI Approved :: MIT License',
