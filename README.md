@@ -1,5 +1,5 @@
 # Dinner at Clementi
-![alt text](https://github.com/chrishendra93/dinner_at_clemz/tree/master/logo/anonymous_mason.png "dinner_at_clemz")
+![alt text](https://github.com/chrishendra93/dinner_at_clemz/tree/master/logo/anonymous_mason.png)
 
 ### Installation
 
