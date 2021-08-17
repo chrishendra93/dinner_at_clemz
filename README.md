@@ -1,6 +1,6 @@
 # Dinner at Clementi
 <p>
-    <img src="logo/anonymous_mason.png" width="220" height="240" />
+    <img src="https://github.com/chrishendra93/dinner_at_clemz/blob/master/logo/anonymous_mason.png" width="220" height="240" />
 </p>
 Bagi Bapak Ibu yang merasa kehilangan anak ini, harap lapor ke pos sekuriti secepatnya
 .
