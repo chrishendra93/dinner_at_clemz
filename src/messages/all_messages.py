@@ -127,7 +127,10 @@ class Acang(Tomodachi):
     def __init__(self):
         name = "Acang"
         designation = "ic_segala_hal_yang_perlu_bayar_except_internet_rumah_kita"
-        message = ''''''
+        message = '''Hi dit, goodluck yow masternya di US, smoga lu have fun disana, sukses, met a lot of friends dan terutama makan yang banyak biar makin subur :D 
+          Its been a fun few years thanks for being an awesome housemate, ntar klo uda lulus pas balik let us know biar kita bs catch up
+          Smoga LDR lu sama Tania juga going strong walau timezonenya lbh jauh, cepetan nikah dit hehe
+          All the best and God bless :)'''
         super(Acang, self).__init__(name, designation, message)
 
 
@@ -136,5 +139,5 @@ class Bena(Tomodachi):
     def __init__(self):
         name = "Bena"
         designation = "satpam_rumah_kita"
-        message = ''''''
+        message = '''Hey dit! ga kerasa kita udah had our last ever monthly splurge. safe travels, take care and have fun in the states! who knows maybe next splurge boogaloo kita bakal some deep dish/philly cheese steak'''
         super(Bena, self).__init__(name, designation, message)
